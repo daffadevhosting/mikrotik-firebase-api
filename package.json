@@ -9,6 +9,6 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "firebase-admin": "^11.5.0",
-    "routeros-client": "^1.4.1"
+    "routeros-api": "^1.0.1"
   }
 }

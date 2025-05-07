@@ -1,4 +1,4 @@
-const { RouterOSClient } = require('routeros-client');
+const RouterOSClient = require('routeros-api').RouterOSClient;
 
 const client = new RouterOSClient({
   host: process.env.MIKROTIK_HOST,
